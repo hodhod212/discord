@@ -1,2 +1,2 @@
-# spotify
+# discord
 chat app
